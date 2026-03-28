@@ -1,0 +1,23 @@
+{
+  "name": "langgraph-cn",
+  "version": "1.0.0",
+  "description": "LangGraph 中文指南 - LangChain 出品的状态化 Agent 编排框架",
+  "keywords": [
+    "langgraph",
+    "langchain",
+    "agent-orchestration",
+    "chinese",
+    "stateful-agents",
+    "workflows"
+  ],
+  "author": "toyball <toyball860721@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toyball860721/langgraph-cn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/toyball860721/langgraph-cn/issues"
+  },
+  "homepage": "https://github.com/toyball860721/langgraph-cn#readme"
+}
